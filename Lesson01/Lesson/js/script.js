@@ -77,10 +77,10 @@
 // let a = 31;
 // console.log(a);
 
-// const number = Number("51"); // 51
+// const number = Number('51'); // 51
 // console.log(Number.isNaN(number)); // false
 
-// const string = Number("qweqwe"); // NaN
+// const string = Number('qweqwe'); // NaN
 // console.log(Number.isNaN(string)); // true
 
 //------------------------------------------------//
